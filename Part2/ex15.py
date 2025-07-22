@@ -9,4 +9,9 @@ flowers = ['rose', 'tulip', 'lily']
 
 # Insert your code here
 #1
+random_flower = random.choice(flowers)
+print(random_flower)
 
+#2
+random_number = random.randint(0,100)
+print(random_number)
